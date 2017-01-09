@@ -1,0 +1,32 @@
+@media all (max-width:1800px){
+
+}
+@media all (max-width:1600px){
+
+}
+
+@media all and (max-width:1024px){
+  .voiture_mois {
+      height: 380px;
+    }
+}
+
+@media all and (max-width:740px){
+h1 > span {
+  float: left;
+}
+.voiture_mois {
+    height: 320px;
+  }
+}
+
+@media all and (max-width:480px){
+  .voiture_mois {
+      height: 200px;
+    }
+}
+@media all and (max-width:320px){
+  .voiture_mois {
+      height: 120px;
+    }
+}
