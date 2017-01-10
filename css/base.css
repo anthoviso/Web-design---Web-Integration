@@ -95,6 +95,12 @@ li > ul.sousMenu {
 li:hover ul.sousMenu{
 	display: block;
 }
+li:active ul.sousMenu{
+	display: block;
+}
+li:focus ul.sousMenu{
+	display: block;
+}
 .active, li:hover{
 	color: white;
 	cursor: pointer;
