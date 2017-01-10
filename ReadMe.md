@@ -15,8 +15,8 @@ de la création de la maquette à l'intégration de celle-ci.
 ```
 ### Maquette
 
-* A venir.. Le zoning.
-* A venir.. La construction du fichier photoshop
+* Le zoning - ex : [Balsamiq](https://balsamiq.com/)
+* La construction du fichier photoshop - [Voir la présentation](https://github.com/anthoviso/Web-design---Web-Integration/blob/master/doc)
 
 ### Langages
 
@@ -26,10 +26,14 @@ de la création de la maquette à l'intégration de celle-ci.
 
 ### Responsive
 
-* Bootstrap
+* [Bootstrap](http://getbootstrap.com/)
 * Media queries
 
 ### Référencement
+
+* A venir..
+
+### Accessibilité
 
 * A venir..
 
