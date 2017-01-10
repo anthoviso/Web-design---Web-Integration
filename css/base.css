@@ -292,7 +292,11 @@ section{
 .sidebar{
 	padding: 25px 0px;
 }
-
+.col-md-sidebar{
+	width:25%;
+	padding-right: 15px;
+padding-left: 15px;
+}
 /* FOOTER */
 footer{
 	padding: 20px;

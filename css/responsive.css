@@ -9,6 +9,9 @@
   .voiture_mois {
       height: 380px;
     }
+    .col-md-sidebar{
+    	width:50%;
+    }
 }
 
 @media all and (max-width:740px){
@@ -61,6 +64,9 @@ h3{font-size: 22px;}
     }
 h1, .h1{font-size: 30px;}
 h3{font-size: 18px;}
+.col-md-sidebar{
+	width:100%;
+}
 }
 @media all and (max-width:320px){
   .voiture_mois {
