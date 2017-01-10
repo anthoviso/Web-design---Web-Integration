@@ -15,7 +15,7 @@ de la création de la maquette à l'intégration de celle-ci.
 ```
 ### Maquette
 
-* Le zoning - ex : [Balsamiq](https://balsamiq.com/)
+* Le zoning - [Balsamiq](https://balsamiq.com/)
 * La construction du fichier photoshop - [Voir la présentation](https://github.com/anthoviso/Web-design---Web-Integration/blob/master/doc/Maquette.md)
 
 ### Langages
@@ -27,7 +27,7 @@ de la création de la maquette à l'intégration de celle-ci.
 ### Responsive
 
 * [Bootstrap](http://getbootstrap.com/)
-* Media queries
+* [Media queries](http://www.alsacreations.com/article/lire/930-css3-media-queries.html)
 
 ### Référencement
 
@@ -35,18 +35,22 @@ de la création de la maquette à l'intégration de celle-ci.
 
 ### Accessibilité
 
-* A venir..
+* [Notice d'accessibilité HTML et CSS](http://wiki.accede-web.com/notices/html-css)
+* [openclassrooms - Faire un site web accessible](https://openclassrooms.com/courses/faire-un-site-web-accessible)
+
+### Compatibilité
+
+* Le code doit [être compatible](http://www.blogintegrateur.fr/10-outils-pour-tester-la-compatibilite-de-votre-site/) sur un maximum de naviguateurs.
 
 ### Optimisations
 
-* Optimisation des images - ex: [blogdumoderateur](http://www.blogdumoderateur.com/optimiser-image/)
+* Optimisation des images -  [blogdumoderateur](http://www.blogdumoderateur.com/optimiser-image/)
 * Simplification du code et des fonctions.
-* Une version de chaque css en minifié.
-* Une version de chaque js en minifié.
+* Minifier vos fichiers (Utilisant l'éditeur [ATOM](https://atom.io/), je minifie avec [atom-minify](https://atom.io/packages/atom-minify))
 * Tests et analyses [dareboost](https://www.dareboost.com/fr/home)
 
 ### Validations (optionnel)
 
 * Validation [W3C](https://validator.w3.org/)
 * Validation [W3C pour le CSS](https://jigsaw.w3.org/css-validator/)
-* Validation WAI (accessibilité).
+* Validation WAI ([Web Accessibility Checker](http://achecker.ca/checker/index.php))
