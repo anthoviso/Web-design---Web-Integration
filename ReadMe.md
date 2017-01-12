@@ -33,6 +33,7 @@ de la création de la maquette à l'intégration de celle-ci.
 ## 2 - L'Intégration Web
 ### Langages
 
+``` Uniquement ceux utilisés dans ce projet ```
 * HTML5
 * CSS3
 * Javascript - Libraire jquery
