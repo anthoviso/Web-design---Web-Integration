@@ -73,8 +73,6 @@ de la création de la maquette à l'intégration de celle-ci.
 * Validation [W3C pour le CSS](https://jigsaw.w3.org/css-validator/)
 * Validation WAI ([Web Accessibility Checker](http://achecker.ca/checker/index.php))
 
-## 3 - Les outils
-
 ### Veille Technologique
 
 * [BlogDuWebDesign](https://www.blogduwebdesign.com/)
