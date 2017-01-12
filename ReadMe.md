@@ -1,4 +1,4 @@
-# Web design sur Photoshop | Intégration Web.
+# Web design | Intégration Web.
 
 ## Anthony VISOCCHI
 ### Janvier 2017
@@ -31,7 +31,10 @@ de la création de la maquette à l'intégration de celle-ci.
 
 ### Référencement
 
-* A venir..
+``` Le référencement n'a pas été otpimisé dans ce projet```
+* [Optimiser ma visibilité](https://openclassrooms.com/courses/ameliorez-la-visibilite-de-votre-site-grace-au-referencement)
+* [Indexer son site](https://aide.jimdo.com/seo/le-r%C3%A9f%C3%A9rencement-c-est-quoi/indexation/)
+* [Analyser son site](https://www.google.com/intl/fr_fr/analytics/)
 
 ### Accessibilité
 
