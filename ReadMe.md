@@ -27,7 +27,7 @@ de la création de la maquette à l'intégration de celle-ci.
 
 ### Banques de Polices
 
-* [dafont](http://www.dafont.com/fr/) 
+* [dafont](http://www.dafont.com/fr/)
 * [1001fonts](http://www.1001fonts.com/)
 
 ## 2 - L'Intégration Web
@@ -44,8 +44,8 @@ de la création de la maquette à l'intégration de celle-ci.
 
 ### Référencement
 
-``` Le référencement n'a pas été otpimisé dans ce projet
-```
+``` Le référencement n'a pas été otpimisé dans ce projet ```
+
 * [Optimiser ma visibilité](https://openclassrooms.com/courses/ameliorez-la-visibilite-de-votre-site-grace-au-referencement)
 * [Indexer son site](https://aide.jimdo.com/seo/le-r%C3%A9f%C3%A9rencement-c-est-quoi/indexation/)
 * [Analyser son site](https://www.google.com/intl/fr_fr/analytics/)
