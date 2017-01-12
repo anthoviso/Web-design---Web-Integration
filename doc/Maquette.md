@@ -30,6 +30,7 @@ permettre au développeur de gagner du temps.
 
 ### Les images
 
+* Utilisez des [images libre de droit](https://www.flickr.com/).
 * Faites attention à la qualité des images que vous utilisez. Une image trop petite va pixeliser à l'écran et à l'inverse une image trop grande va être plus longue à charger sur le web. Pensez à redimmensionner vos images.
 * Préparez un dossier avec les images à donner pour le développeur.
 
