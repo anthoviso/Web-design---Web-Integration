@@ -5,7 +5,7 @@
 ```
 ! Projet en cours de développement.
 
-Ce projet illustre la conception d'un webdesign reponsif,
+Ce projet illustre la conception d'un webdesign responsive,
 de la création de la maquette à l'intégration de celle-ci.
 
 ```

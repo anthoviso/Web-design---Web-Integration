@@ -1,7 +1,4 @@
 # Web design sur Photoshop | Intégration Web.
-## Anthony VISOCCHI
-### Janvier 2017
-
 
 [Git Hub](https://github.com/anthoviso) - Anthony VISOCCHI.
 
