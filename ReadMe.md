@@ -1,7 +1,5 @@
 # Web design | Intégration Web.
 
-[Git Hub](https://github.com/anthoviso) - Anthony VISOCCHI.
-
 ```
 ! Projet en cours de développement.
 
